@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App Cobranza</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="terminos">Terminos y Condiciones</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nombre_cliente">Nombre</string>
+
+</resources>

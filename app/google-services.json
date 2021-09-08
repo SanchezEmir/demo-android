@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "262646646623",
+    "project_id": "proyecto-netcom",
+    "storage_bucket": "proyecto-netcom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262646646623:android:ce1ca2a082b550fa4258ea",
+        "android_client_info": {
+          "package_name": "com.sanchezemir.appcobranza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262646646623-v7maoucpjvnemc99kq82b5m1kcvafsb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanchezemir.appcobranza",
+            "certificate_hash": "370315ca1694e0d52d8e7aaa2de4ab0c386d33d0"
+          }
+        },
+        {
+          "client_id": "262646646623-8pfgck28oiticu8cbaraa9b8ufd0kp8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2P6alWf3zndzc6Wo4Sd3IIktg99VK9K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262646646623-8pfgck28oiticu8cbaraa9b8ufd0kp8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
